@@ -12,8 +12,17 @@
 
 ### Oii, sou Lídi Moura, criadora de soluções de IA e fundadora do Encontro d'água hub. 🌀
 
-Meu propósito é "reflorestar o digital". Tendo como referência a natureza, como a maior tecnologia que já acessei, para usar a tecnologia na construção de um ecossistema vivo, sustentável e acessível. Minha jornada é "heutagógica" (aprendo-fazendo), combinando minha experiência intercultural em CX,  a minha nova paixão pelo desenvolvimento de IA, e ainda, retornando ao mercado como mãe de primeira viagem.
+Meu propósito é reflorestar o digital, usando a tecnologia para construir um ecossistema vivo, sustentável e acessível, integrando minhas vivências, criatividade e paixão por soluções acessíveis e inclusivas.
 
+Minha jornada com tecnologia e comunicação começou na infância (minha mãe, professora de inglês, me ensinou desde pequena e meu pai, técnico de informática, que me orientou de forma responsável no mundo digital), mas foi somente nessa revolução de IA que estamos vivendo que me permitiu, pela primeira vez, construir as soluções que sempre imaginei.
+
+Nesse processo, como aluna do programa ONE da @Alura descobri que meu aprendizado se dá de forma 'heutagógica' (aprender-fazendo). Em 2024, iniciei uma transição de carreira ousada, estudando de forma autodidata e com imersõe e cursos livres online (python, streamlit, github) e em seguida concluindo uma formação em programação ( JS, html, css, engenharia do prompt e IA generativa) em dois meses, enquanto, em paralelo, eu já estava desenvolvendo agentes de IA e automações (n8n, gptmaker, manychat, typebot, replilt, colab, telegram).
+
+Essa jornada inclui meu retorno ao mercado como mãe de primeira viagem e uma baita bagagem intercultural, com um olhar focado nas pessoas (no atendimento ao cliente e onboarding), e é com essa perspectiva autônoma que firmo meu propósito de criar soluções que resolvem problemas reais.
+
+O Encontro d'água hub é minha maior conquista com IA e a prova de que podemos e devemos usar a tecnologia para construir o futuro que queremos. Como uma iniciante ousada, estou compartilhando meu processo do zero, pra honrar cada conquista com humildade e também manter meu compromisso de tornar o uso da tecnologia responsável, sustentável e acessível, como deveria ser.
+
+Me mantenho à disposição para compartilhar o pouco que sei, ajudar a construir o que é necessário e ousar cocriar o que vem pela frente, com responsabilidade e sustentabilidade, tendo a natureza como a maior referência de tecnologia que já tive acesso.
 
 ---
 
@@ -21,7 +30,7 @@ Meu propósito é "reflorestar o digital". Tendo como referência a natureza, co
 
 | Status | Ativo | Objetivo |
 | :--- | :--- | :--- |
-| 🟢 **Ativo** | **Prospecção (Renda)** | Configurando `Buy Me a Coffee`, `Upwork` e `Fiverr` para geração de renda imediata (PF). |
+| 🟢 **Ativo** | **Prospecção (Renda)** | Configurando `Upwork` e `Fiverr` para geração de renda imediata (PF). |
 | 🟡 **Em Andamento** | **Landing Page (Ativo 5)** | Executando o "Bake-off v5" (Lovable, Bolt, Google AI) para gerar a URL da vitrine no Vercel e desbloquear a Página do LinkedIn. |
 | 🔵 **Manutenção** | **Painel de Controle (Ativo 4)** | Monitorando o deploy do App Streamlit (híbrido) após a correção do `langchain-text-splitters`. |
 
