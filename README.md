@@ -1,4 +1,4 @@
-<div align="center">
+I'm<div align="center">
   <a href="https://linkedin.com/in/lidimoura" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Lídi_Moura-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -37,7 +37,7 @@ Aqui é onde eu construo e experimento.
 | :--- | :--- | :--- |
 | **[encontro-dagua-hub](https://github.com/lidimoura/encontro-dagua-hub)** | **(O Monorepo)** O Painel de Controle privado (app Streamlit híbrido) e o cérebro (DNAs) do ecossistema de agentes. Em refatoração com FastAPI. |[...] |
 | **[landingpage-hub-showcase](https://github.com/lidimoura/landingpage-hub-showcase)** | **(A primeira gota d'água)** A Landing Page pública do Hub com integração Typebot. Desenvolvida com Google AI Studio. |[...] |
-| **[lidimoura-imersao-dev-tbc-mao](https://github.com/lidimoura/lidimoura-imersao-dev-tbc-mao)** | Projetos e desafios da Imersão Dev TBC Mão. Prototipagem rápida e experimentação. |[...] |
+| **[lidimoura-imersao-dev-tbc-mao](https://github.com/lidimoura/lidimoura-imersao-dev-tbc-mao)** | Projetos e desafios da Imersão Dev TBC Manaus. Prototipagem rápida e experimentação. |[...] |
 | **[challenge-amigo-secreto](https://github.com/lidimoura/challenge-amigo-secreto)** | (Challenge ONE - Alura) Aplicação web para sorteio de amigo secreto. | `HTML`, `CSS`, `JavaScript` |
 | **[Jogo-do-numero-secreto](https://github.com/lidimoura/Jogo-do-numero-secreto)** | (Desafio ONE - Alura) Jogo web de adivinhação com reconhecimento de voz. | `HTML`, `CSS`, `JavaScript` |
 
