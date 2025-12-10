@@ -1,4 +1,3 @@
-I'm<div align="center">
   <a href="https://linkedin.com/in/lidimoura" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Lídi_Moura-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
