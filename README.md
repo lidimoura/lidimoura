@@ -6,7 +6,7 @@
 
 ---
 
-### Oii, sou Lídi Moura, full-stack developer em transição no-code/low-code e especialista em Data Science. 🌀
+### Oii, sou Lídi Moura, full-stack developer em transição no-code/low-code e especialista em Data Science (aluna Alura). 🌀
 
 Meu propósito é usar a tecnologia para construir soluções digitais acessíveis, escaláveis e com impacto social. Fundadora do Encontro d'água hub, trabalho na intersecção entre IA, sustentabilidade e inovação, criando ecossistemas vivos e responsáveis. 
 
