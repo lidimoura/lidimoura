@@ -15,7 +15,7 @@ Meu propósito é usar a tecnologia para construir soluções digitais acessíve
 
 Minha trajetória une tecnologia e comunicação. Sou estudante da @Alura, onde estou me especializando em Data Science. Descobri que aprendo fazendo (*método heutagógico*) e, em 2024, iniciei uma transição ousada: saí do básico e hoje construo aplicações complexas unindo **engenharia de software** (React, Supabase) com **inteligência de dados**.
 
-Atuo como freelancer focada na experiência do usuário e em breve como MEI. Meu diferencial é a visão de produto, pois codifico apenas, mas busco compreender a dor do cliente para resolver porblemas reais oferecendo soluções tecnológicas acessíveis, assertivas e que otimizem seu negócio.
+Atuo como freelancer focada na experiência do usuário e em breve como MEI. Meu diferencial é a visão de produto, pois não codifico apenas, mas busco compreender a dor do cliente para resolver problemas reais oferecendo soluções tecnológicas acessíveis, assertivas e que otimizem seu negócio.
 
 ---
 
@@ -35,8 +35,10 @@ Aqui é onde a mágica acontece. Da prototipagem à produção.
 
 | Repositório | Descrição | Stack Principal |
 | :--- | :--- | :--- |
-| **[encontro-dagua-hub-digital](https://github.com/lidimoura/encontro-dagua-hub-digital)** | **🏆 O PRODUTO ATUAL (SaaS).** O ecossistema oficial. Plataforma com **CRM Nativo integrado** (baseado no projeto da Comunidade de alunos vitalícios da Escola de Automação do Thales Laray, e adaptado para Mobile/Inglês), coma agentes de IA integrado e painel de controle. Está em fase beta/Validação. | `React` `Vite` `Supabase` `Tailwind` |
+| **[encontro-dagua-hub-digital](https://github.com/lidimoura/encontro-dagua-hub-digital)** | **🏆 O PRODUTO ATUAL (SaaS).** O ecossistema oficial. Plataforma com **CRM Nativo integrado** (baseado no projeto da Comunidade de alunos vitalícios da Escola de Automação do Thales Laray, e adaptado para Mobile/Inglês), com agentes de IA integrado e painel de controle. Está em fase beta/Validação. | `React` `Vite` `Supabase` `Tailwind` |
 | **[agente-bmd-showcase](https://github.com/lidimoura/agente_bmd_showcase)** | **(Freelance)** Showcase técnico desenvolvido para a startup **Synk**: documentação e apresentação de um Agente de IA. | `HTML/CSS` `Docs` |
+| **🔒 Linkdágua** *(Em Breve)* | **(SaaS)** Plataforma de Cartões Digitais e QR Codes dinâmicos para pequenos empreendedores. Foco em *mobile-first*. | `React` `Vite` `Stripe` |
+| **🔒 GuIA Amazonas** *(Em Breve)* | **(Turismo + IA)** Guia interativo e colaborativo com foco em turismo de base comunitária na Amazônia. | `Python` `LangChain` `IA` |
 | **[encontro-dagua-hub](https://github.com/lidimoura/encontro-dagua-hub)** | **(Versão 1.0 - Legado)** Meu primeiro protótipo (Monorepo) foi feito em Streamlit e serviu para validar a ideia antes de migrar para a arquitetura escalável atual. | `Python` `Streamlit` |
 | **[challenge-amigo-secreto](https://github.com/lidimoura/challenge-amigo-secreto)** | (Challenge ONE - Alura) Aplicação web interativa para sorteios. | `JS` `HTML` `CSS` |
 
