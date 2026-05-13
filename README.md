@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Lidi Moura</h1>
-  <p><b>AI & Data Science Specialist | Fullstack Lowcode Developer | Founder @ Encontro D'água Hub</b></p>
+  <h1>Lídi Moura</h1>
+  <p><b>AI & Data Science Specialist | Tech analyst | Fullstack Lowcode Developer | Founder, CEO & PO @ Encontro D'água Hub</b></p>
   
   <p><i>Reflorestando o digital com vibe coding & inteligência estratégica</i></p>
 
@@ -70,6 +70,9 @@ Soluções em produção que integram IA e Desenvolvimento Moderno.
 
 ### 🤝 Vamos conversar?
 Estou disponível para consultorias em IA, parcerias em projetos de dados e oportunidades desafiadoras.
+<div align="center">
+Parceira certificada da Kommo 
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidimoura&layout=compact&theme=vision-friendly-dark" alt="Lidi Moura Top Langs" />
