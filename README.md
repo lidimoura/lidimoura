@@ -14,7 +14,7 @@
 ### Sobre Mim
 Sou uma **Builder** que utiliza a metodologia **Vibe Coding** — construção acelerada por IA aliada ao rigor técnico. Como sspecialista em IA aplicada a data Science pelo programa **Oracle Next Education (ONE)**, foco na criação de produtos SaaS inteligentes e na transformação de dados em decisões estratégicas.
 
-**Foco Atual:** Especialização na trilha *Tech Advanced* para certificações internacionais em **Oracle Cloud Infrastructure (OCI)**, **AI Foundations** e **MySQL Advanced** e também sou parceira certificada da Kommo.
+**Foco Atual:** Especialização na trilha *Tech Advanced* para certificações internacionais em **Oracle Cloud Infrastructure (OCI)**, **AI Foundations** e **MySQL Advanced**.
 
 ---
 
@@ -42,12 +42,14 @@ Soluções em produção que integram IA e Desenvolvimento Moderno.
   <table>
     <tr>
       <td align="center" width="200">
-        <img src="https://raw.githubusercontent.com/encontro-dagua-hub/.github/main/profile/logo-icon-gold-transp.png" width="100"><br>
+        <img src="https://raw.githubusercontent.com/lidimoura/encontro-dagua-hub-digital/main/public/logos/logo-dark.png" alt="Encontro d'Água Hub Digital" width="250">
+</div><br>
         <b>Hub Digital</b><br>
         <a href="https://github.com/encontro-dagua-hub">Organização</a> | <a href="https://hub.encontrodagua.com">Live</a>
       </td>
       <td align="center" width="200">
-        <img src="https://raw.githubusercontent.com/lidimoura/link-dagua/main/public/logo-dark.png" width="100"><br>
+        <img src="https://github.com/lidimoura/link-dagua/raw/main/public/logo-dark.png" alt="Link d'água Logo" width="250">
+<br>
         <b>Link d'Água</b><br>
         <a href="https://github.com/lidimoura/link-dagua">Repositório</a> | <a href="https://link.encontrodagua.com/vitrine/">Live</a>
       </td>
