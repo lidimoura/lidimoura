@@ -70,7 +70,7 @@ Soluções em produção que integram IA e Desenvolvimento Moderno.
 
 ---
 
-### 🤝 Vamos conversar?
+### Vamos conversar?
 Estou disponível para consultorias em IA, parcerias em projetos de dados e oportunidades desafiadoras.
 <div align="center">
 Parceira certificada da Kommo 
