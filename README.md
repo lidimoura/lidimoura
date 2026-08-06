@@ -17,13 +17,13 @@
 
 ### Sobre Mim
 
-Sou uma profissional em transição para **Dados e IA aplicada**, fundadora do **Encontro d’água hub** e criadora do **Hub Nexus**, um ecossistema AI-native para desenvolvimento de produtos, serviços e soluções digitais.
+Sou uma profissional em transição para **Dados e IA aplicada**, fundadora do **Encontro d’água hub** e criadora do **Hub Nexus**, um ecossistema AI-native voltado para o desenvolvimento de produtos, serviços e soluções digitais.
 
 Minha trajetória combina formação em **Psicologia**, mais de dez anos de experiências com atendimento, comunicação, experiência do cliente, hospitalidade, viagens, arte, sustentabilidade, projetos digitais e aprendizagem prática em tecnologia.
 
-Hoje uso essa bagagem para construir soluções que conectam **dados, IA, automação e experiência humana**. Meu foco é transformar informações, processos e problemas reais em soluções mais claras, acessíveis e possíveis de utilizar.
+Hoje utilizo essa bagagem para construir soluções que conectam **dados, IA, automação e experiência humana**. Meu foco é transformar informações, processos e problemas reais em soluções mais claras, acessíveis e possíveis de utilizar.
 
-Sou uma **Builder** e utilizo o desenvolvimento assistido por IA como parte do meu processo de construção. A tecnologia acelera a prototipação, mas cada solução precisa passar por contexto, revisão, testes e decisões conscientes.
+Sou uma **Builder** e utilizo o desenvolvimento assistido por IA como parte do meu processo de construção. A IA acelera a pesquisa, a prototipação e o desenvolvimento, mas cada solução passa por contexto, revisão, testes e aprendizado contínuo.
 
 > Reflorestando o digital com tecnologia útil, contexto e cuidado com as pessoas.
 
@@ -31,13 +31,16 @@ Sou uma **Builder** e utilizo o desenvolvimento assistido por IA como parte do m
 
 ### Foco Atual
 
-Atualmente, estou aprofundando minha atuação em:
+Estou consolidando minha transição para Dados, IA e Business Intelligence por meio de formação prática, projetos próprios e participação em programas de desenvolvimento tecnológico.
 
-* **Data Science:** análise de dados, ETL, EDA, Python e storytelling de dados.
-* **IA aplicada:** construção de produtos, protótipos e soluções AI-native.
-* **Automação:** organização de processos, fluxos de atendimento e integrações.
-* **Produtos digitais:** desenvolvimento de mini sites, dashboards e aplicações personalizadas.
-* **Impacto social:** tecnologia acessível, experiências mais humanas e soluções alinhadas a contextos locais.
+Atualmente, estou:
+
+* Avançando na trilha **Tech Advanced do ONE G9**, com estudos em bancos de dados, desenvolvimento tecnológico e Microsoft SQL Server.
+* Estudando **MySQL**, SQL e fundamentos de organização e modelagem de dados.
+* Desenvolvendo um agente de IA no **ONE G10**, explorando automação, agentes inteligentes e interação entre tecnologia e usuários.
+* Aprofundando meus conhecimentos em **Power BI**, ferramenta na qual já possuo experiência prática inicial e que pretendo incorporar progressivamente aos meus projetos para clientes.
+* Estudando **Databricks** e conceitos relacionados a plataformas modernas de dados e engenharia de dados.
+* Aprendendo fazendo: estudando, construindo, testando, revisando e transformando os conteúdos em projetos funcionais.
 
 ---
 
@@ -48,18 +51,24 @@ Principais competências desenvolvidas em projetos práticos:
 * **Análise de Dados & ETL:** utilização de Pandas e NumPy para limpeza, tratamento, organização e transformação de dados.
 * **Análise Exploratória:** investigação de padrões, tendências, distribuição dos dados e possíveis relações entre variáveis.
 * **Visualização de Dados:** construção de gráficos, relatórios e dashboards para tornar os dados mais fáceis de interpretar.
+* **Storytelling de Dados:** transformação de resultados técnicos em narrativas mais compreensíveis e úteis para tomada de decisão.
 * **Machine Learning Supervisionado:** implementação de modelos de regressão e classificação com Scikit-learn.
-* **Storytelling de Dados:** transformação de resultados técnicos em narrativas mais compreensíveis e úteis para decisão.
+* **Bancos de Dados:** estudos práticos em SQL, MySQL, Microsoft SQL Server, PostgreSQL e Supabase.
+* **Business Intelligence:** experiência prática inicial e estudos contínuos em Power BI, com foco em visualização, relatórios e análise de indicadores.
+* **Plataformas de Dados:** estudos em Databricks e fundamentos de engenharia e análise de dados em ambientes modernos.
 * **Aplicações Analíticas:** desenvolvimento de protótipos e dashboards interativos com Streamlit.
 
 ---
 
 ### Minha Stack
 
-* **Data Science:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Google Colab, Jupyter, NotebookLM.
-* **Dashboards & BI:** Streamlit, Power BI e visualização de dados.
-* **Vibe Coding & Automação:** Lovable, Antigravity, n8n, Google AI Studio, Typebot.
-* **IA & CRM:** soluções com IA aplicada, Kommo, automações e organização de fluxos.
+* **Data Science:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Google Colab, Jupyter e NotebookLM.
+* **Bancos de Dados:** SQL, MySQL, Microsoft SQL Server, PostgreSQL e Supabase.
+* **Dashboards & BI:** Streamlit e Power BI.
+* **Plataformas de Dados:** estudos em Databricks.
+* **IA & Agentes:** Google AI Studio, agentes de IA, aplicações inteligentes e prototipação assistida por IA.
+* **Vibe Coding & Automação:** Lovable, Antigravity, n8n e Typebot.
+* **IA & CRM:** IA aplicada, Kommo, automações e organização de fluxos.
 * **Fullstack Lowcode:** Python, React, TypeScript, Tailwind CSS, Supabase e Vercel.
 
 ---
@@ -68,11 +77,11 @@ Principais competências desenvolvidas em projetos práticos:
 
 Atualmente, desenvolvo soluções para negócios, profissionais, projetos e iniciativas que precisam organizar melhor seus dados, sua presença digital ou seus processos.
 
-* **Pesquisa de satisfação e análise de dados:** criação de formulários, organização das respostas, análise exploratória, indicadores, gráficos e insights.
-* **Dashboards interativos:** visualização de dados em Streamlit ou Power BI, conforme o contexto e a preferência do cliente.
+* **Pesquisa de satisfação e análise de dados:** criação de formulários, organização das respostas, tratamento dos dados, análise exploratória, indicadores, gráficos e insights.
+* **Dashboards interativos:** visualização de dados em Streamlit ou Power BI, conforme o contexto, a estrutura e a preferência do cliente.
 * **Mini sites com QR dinâmico:** páginas personalizadas para reunir WhatsApp, redes sociais, portfólio, catálogo, cardápio, localização e outros links.
 * **Automação e CRM:** organização de processos, fluxos de atendimento, funis, qualificação de leads e integrações.
-* **Soluções com IA aplicada:** protótipos, assistentes, experiências digitais e produtos construídos com apoio de inteligência artificial.
+* **Soluções com IA aplicada:** protótipos, agentes, assistentes, experiências digitais e produtos construídos com apoio de inteligência artificial.
 
 ---
 
@@ -82,7 +91,20 @@ Atualmente, desenvolvo soluções para negócios, profissionais, projetos e inic
 
 Projeto de showcase que demonstra um fluxo completo de coleta, tratamento, análise e visualização de dados.
 
-**Fluxo:** formulário → base de respostas → notebook de análise → tratamento dos dados → dashboard interativo.
+O fluxo inclui:
+
+* formulário para coleta de respostas;
+* organização da base de dados;
+* notebook de análise;
+* tratamento e exploração dos dados;
+* indicadores e visualizações;
+* dashboard interativo.
+
+A arquitetura conceitual do projeto é:
+
+> Formulário → Base de dados → Google Colab → Python/Pandas → Análise → Streamlit
+
+A solução pode ser adaptada para diferentes contextos e, conforme a necessidade do cliente, evoluir para uma versão em Power BI.
 
 <a href="https://github.com/lidimoura/pesquisa-satisfacao-showcase">
   <img src="https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -90,7 +112,7 @@ Projeto de showcase que demonstra um fluxo completo de coleta, tratamento, anál
 
 #### Projetos de Data Science
 
-Projetos desenvolvidos durante a formação e o processo de aprendizagem prática em Python, análise exploratória, visualização de dados e construção de aplicações.
+Projetos desenvolvidos durante a formação e o processo de aprendizagem prática em Python, análise exploratória, visualização de dados, machine learning e construção de aplicações.
 
 ---
 
@@ -136,6 +158,20 @@ Soluções e produtos digitais que integram IA, dados, automação, desenvolvime
 O **Hub Nexus** é um ecossistema AI-native criado para organizar e conectar skills, produtos e soluções em torno de dados, IA, automação, CRM, presença digital e impacto social.
 
 Cada skill funciona como um módulo especializado, com ferramentas, objetivos e regras de negócio próprios. Esses módulos podem ser combinados para construir soluções personalizadas conforme o problema e o contexto de cada projeto.
+
+Alguns dos módulos do ecossistema incluem:
+
+* Data & Insights;
+* ETL e análise exploratória;
+* IA aplicada;
+* Agentes inteligentes;
+* Automação;
+* CRM e relacionamento;
+* Mini sites e presença digital;
+* Pesquisas de satisfação;
+* Dashboards e Business Intelligence;
+* Produtos digitais e SaaS;
+* Acessibilidade e impacto social.
 
 ---
 
