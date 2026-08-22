@@ -17,7 +17,7 @@
 
 ### Sobre Mim
 
-Sou uma profissional em transição para **Dados e IA aplicada**, fundadora do **Encontro d’água hub** e criadora do **Hub Nexus**, um ecossistema AI-native voltado para o desenvolvimento de produtos, serviços e soluções digitais.
+Sou uma profissional em transição para **Dados e IA aplicada**, fundadora do **Encontro d’água hub** e criadora do **Hub OS**, um ecossistema AI-native voltado para o desenvolvimento de produtos, serviços e soluções digitais.
 
 Minha trajetória combina formação em **Psicologia**, mais de dez anos de experiências com atendimento, comunicação, experiência do cliente, hospitalidade, viagens, arte, sustentabilidade, projetos digitais e aprendizagem prática em tecnologia.
 
@@ -25,7 +25,7 @@ Hoje utilizo essa bagagem para construir soluções que conectam **dados, IA, au
 
 Sou uma **Builder** e utilizo o desenvolvimento assistido por IA como parte do meu processo de construção. A IA acelera a pesquisa, a prototipação e o desenvolvimento, mas cada solução passa por contexto, revisão, testes e aprendizado contínuo.
 
-> Reflorestando o digital com tecnologia útil, contexto e cuidado com as pessoas.
+> Reflorestando o digital com tecnologia útil, acessível e sustentável.
 
 ---
 
@@ -116,7 +116,7 @@ Projetos desenvolvidos durante a formação e o processo de aprendizagem prátic
 
 ---
 
-### Ecossistema Encontro D'água
+### Ecossistema encontro d'água
 
 Soluções e produtos digitais que integram IA, dados, automação, desenvolvimento moderno e impacto social.
 
@@ -153,9 +153,9 @@ Soluções e produtos digitais que integram IA, dados, automação, desenvolvime
 
 ---
 
-### Hub Nexus
+### Hub OS
 
-O **Hub Nexus** é um ecossistema AI-native criado para organizar e conectar skills, produtos e soluções em torno de dados, IA, automação, CRM, presença digital e impacto social.
+O **Hub OS** é um ecossistema AI-native criado para organizar e conectar skills, produtos e soluções em torno de dados, IA, automação, CRM, presença digital e impacto social.
 
 Cada skill funciona como um módulo especializado, com ferramentas, objetivos e regras de negócio próprios. Esses módulos podem ser combinados para construir soluções personalizadas conforme o problema e o contexto de cada projeto.
 
@@ -199,7 +199,7 @@ Estou disponível para:
 
 <br><br>
 
-Parceira certificada da Kommo
+Parceira certificada da Kommo e também certificada OCI Fountations Associate.
 
 </div>
 
