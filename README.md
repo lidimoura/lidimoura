@@ -2,7 +2,7 @@
   <h1>Lídi Moura</h1>
   <p><b>AI & Data Builder | Data Science | Tech Analyst | Fullstack Lowcode Developer | Founder, CEO & PO @ Encontro D'água Hub</b></p>
   
-  <p><i>Reflorestando o digital com IA aplicada, dados e inteligência estratégica</i></p>
+  <p><i>Reflorestando o digital com tecnologia útil, acessível e sustentável</i></p>
 
   <a href="https://www.linkedin.com/in/lidimoura">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -35,11 +35,11 @@ Estou consolidando minha transição para Dados, IA e Business Intelligence por 
 
 Atualmente, estou:
 
-* Avançando na trilha **Tech Advanced do ONE G9**, com estudos em bancos de dados, desenvolvimento tecnológico e Microsoft SQL Server.
-* Estudando **MySQL**, SQL e fundamentos de organização e modelagem de dados.
-* Desenvolvendo um agente de IA no **ONE G10**, explorando automação, agentes inteligentes e interação entre tecnologia e usuários.
-* Aprofundando meus conhecimentos em **Power BI**, ferramenta na qual já possuo experiência prática inicial e que pretendo incorporar progressivamente aos meus projetos para clientes.
-* Estudando **Databricks** e conceitos relacionados a plataformas modernas de dados e engenharia de dados.
+* **Finalista do ONE G9**, com o **Hackathon ONE G9 BR** como última atividade do programa. Em breve serei **Alumni ONE BR**.
+* Participando do **ONE G10 (ONE IA FOR TECH)**, programa educacional da Oracle Next Education em parceria com a Alura, com foco em **IA Generativa, Engenharia de Agentes, Inteligência de Dados e Oracle Cloud Infrastructure**.
+* Estudando **SQL** para obter a certificação **Databases for Developers: Foundations** pela **Oracle Dev Gym**.
+* Aprofundando meus conhecimentos em **Power BI**, ferramenta na qual já possuo experiência prática inicial e que pretendo incorporar progressivamente aos meus projetos para clientes, além de me preparar para a certificação **Microsoft Power BI Data Analyst Associate**.
+* Estudando **Databricks** para obter as certificações base oferecidas pelo próprio Databricks, em estágio inicial de familiarização com a plataforma.
 * Aprendendo fazendo: estudando, construindo, testando, revisando e transformando os conteúdos em projetos funcionais.
 
 ---
@@ -55,7 +55,6 @@ Principais competências desenvolvidas em projetos práticos:
 * **Machine Learning Supervisionado:** implementação de modelos de regressão e classificação com Scikit-learn.
 * **Bancos de Dados:** estudos práticos em SQL, MySQL, Microsoft SQL Server, PostgreSQL e Supabase.
 * **Business Intelligence:** experiência prática inicial e estudos contínuos em Power BI, com foco em visualização, relatórios e análise de indicadores.
-* **Plataformas de Dados:** estudos em Databricks e fundamentos de engenharia e análise de dados em ambientes modernos.
 * **Aplicações Analíticas:** desenvolvimento de protótipos e dashboards interativos com Streamlit.
 
 ---
@@ -65,7 +64,7 @@ Principais competências desenvolvidas em projetos práticos:
 * **Data Science:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Google Colab, Jupyter e NotebookLM.
 * **Bancos de Dados:** SQL, MySQL, Microsoft SQL Server, PostgreSQL e Supabase.
 * **Dashboards & BI:** Streamlit e Power BI.
-* **Plataformas de Dados:** estudos em Databricks.
+* **Plataformas de Dados:** estudos iniciais em Databricks.
 * **IA & Agentes:** Google AI Studio, agentes de IA, aplicações inteligentes e prototipação assistida por IA.
 * **Vibe Coding & Automação:** Lovable, Antigravity, n8n e Typebot.
 * **IA & CRM:** IA aplicada, Kommo, automações e organização de fluxos.
@@ -109,6 +108,12 @@ A solução pode ser adaptada para diferentes contextos e, conforme a necessidad
 <a href="https://github.com/lidimoura/pesquisa-satisfacao-showcase">
   <img src="https://img.shields.io/badge/Ver%20projeto-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+<a href="https://lidimoura.github.io/pesquisa-satisfacao-showcase/">
+  <img src="https://img.shields.io/badge/Ver%20demo-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+<a href="https://tally.so/r/q4qJg7">
+  <img src="https://img.shields.io/badge/Preencher%20pesquisa-000000?style=for-the-badge&logo=google-forms&logoColor=white">
+</a>
 
 #### Projetos de Data Science
 
@@ -116,7 +121,7 @@ Projetos desenvolvidos durante a formação e o processo de aprendizagem prátic
 
 ---
 
-### Ecossistema encontro d'água
+### Ecossistema Encontro D'água
 
 Soluções e produtos digitais que integram IA, dados, automação, desenvolvimento moderno e impacto social.
 
@@ -136,10 +141,10 @@ Soluções e produtos digitais que integram IA, dados, automação, desenvolvime
         <a href="https://github.com/lidimoura/link-dagua">Repositório</a> | <a href="https://link.encontrodagua.com/vitrine/">Live</a>
       </td>
       <td align="center" width="200">
-        <img src="https://raw.githubusercontent.com/lidimoura/amazo.ia-showcase/main/assets/mazo.jpeg" alt="Amazô IA" width="100">
+        <img src="https://raw.githubusercontent.com/lidimoura/amazo-guia-g10/main/assets/amazo-guia-avatar-g10.png" alt="Amazô.Guia G10" width="100">
         <br><br>
-        <b>Amazô.IA</b><br>
-        <a href="https://github.com/lidimoura/amazo.ia-showcase">Repositório</a> | <a href="https://lidimoura.github.io/amazo.ia-showcase/">Live</a>
+        <b>Amazô.Guia G10</b><br>
+        <a href="https://github.com/lidimoura/amazo-guia-g10">Repositório</a> | <a href="https://amazo-guia-g10.streamlit.app/">Live</a>
       </td>
     </tr>
   </table>
@@ -175,6 +180,66 @@ Alguns dos módulos do ecossistema incluem:
 
 ---
 
+### Hackathon ONE G9 BR — Equipe Campeã
+
+Projeto desenvolvido no hackathon nacional do programa Oracle Next Education, com apresentação no Demo Day para parceiros e empresas.
+
+* **Repositório oficial:** [G9-BR-TEAM-12](https://github.com/No-Country-simulation/G9-BR-TEAM-12/)
+* **Vídeo pitch oficial (narrado por mim):** [YouTube](https://www.youtube.com/watch?v=j2j1GV7NOGM&list=PLDlCN6sLF3g4&index=2)
+* **Front-end em produção:** [G9-BR-TEAM-12 Front](https://g9-br-team-12-front.vercel.app/)
+
+No hackathon, atuei como **Data Analyst e Data Science**, sendo escolhida como **líder da equipe**. Minhas principais contribuições foram:
+
+* criação da **API REST** do projeto;
+* configuração da **integração OCI** com o modelo em `.pkl` da API armazenado em **Object Storage**;
+* criação de **grupo com Vault** já configurado;
+* configuração do **Compartment PowerPólis**;
+* provisionamento do **Autonomous AI Database** (para uso futuro);
+* participação na **arquitetura do projeto**, em parceria com o trio: **Alex Furakawa (Fullstack)** e **Samanta Sá (Scrum Master e responsável pelo backend)**;
+* responsabilidade por **apresentar e defender o projeto no Demo Day**, em duas etapas:
+  * primeiro dia: seleção das 10 melhores equipes;
+  * segundo dia: avaliação e seleção das equipes campeãs;
+* narração do **vídeo de pitch oficial** do projeto.
+
+Atualmente, **estamos nos ajustes finais para validar o MVP com o público**, utilizando o **Link d’Água** e QR Codes dinâmicos que encaminham os usuários para o MVP.
+
+---
+
+### Amazô.Guia G10
+
+Projeto desenvolvido no **ONE G10**, integrando IA, automação e dados para criar uma experiência digital orientada por contexto e conteúdo.
+
+* **Repositório:** [amazo-guia-g10](https://github.com/lidimoura/amazo-guia-g10)
+* **App em Streamlit:** [Amazô.Guia G10](https://amazo-guia-g10.streamlit.app/)
+* **Showcase:** [amazo-g10-showcase](https://github.com/lidimoura/amazo-g10-showcase) | [Live](https://lidimoura.github.io/amazo-g10-showcase/)
+
+O projeto foi desenvolvido com apoio do **Hub OS**, utilizando **Manus AI**, **Antigravity** e **Perplexity** como parte do processo de construção.
+
+A **Amazô.Guia G10** é a evolução e versão atualizada oficial da **Amazô** dentro do ecossistema do Hub, representando a nova iteração do projeto com melhorias de arquitetura, conteúdo e experiência.
+
+---
+
+### ONE G10 — ONE IA FOR TECH
+
+Participo do programa **ONE IA FOR TECH**, um programa educacional gratuito da **Oracle Next Education (ONE)** em parceria com a **Alura**, projetado para preparar profissionais com habilidades reais em **Inteligência Artificial, Dados, Automação e Cloud**.
+
+Principais áreas de estudo no programa:
+
+* **IA Generativa:** uso de ChatGPT, Gemini, Claude e Grok para desenvolver soluções reais com Python e LangChain.
+* **Engenharia de Agentes:** construção de agentes inteligentes, sistemas multiagentes e automações com LangGraph e n8n.
+* **Inteligência de Dados e RAG:** criação de assistentes que consultam documentos, CSVs e bancos de dados vetoriais com técnicas avançadas de recuperação.
+* **Oracle Cloud Infrastructure:** implantação de projetos na nuvem com infraestrutura como código, bancos de dados e redes na OCI.
+
+O programa é organizado em formações — conjuntos de cursos pensados para o perfil de cada participante — que culminam em um **challenge individual**, o projeto final que demonstra tudo o que foi aprendido.
+
+* **Carga horária total:** 133h de conteúdo  
+* **Modalidade:** individual  
+* **Duração estimada:** 8 semanas  
+
+Como parte do ONE G10, estou me preparando para a certificação **Oracle Cloud Infrastructure (OCI) AI Foundations Associate**.
+
+---
+
 ### Vamos conversar?
 
 Estou disponível para:
@@ -199,7 +264,7 @@ Estou disponível para:
 
 <br><br>
 
-Parceira certificada da Kommo e também certificada OCI Fountations Associate.
+Parceira certificada da Kommo e também certificada OCI Foundations Associate.
 
 </div>
 
