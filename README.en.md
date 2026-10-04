@@ -225,13 +225,13 @@ Form → Dataset → Google Colab → Python/Pandas → Analysis → Dashboard
 ## Education and certifications
 
 - **ONE G10 — AI for Tech:** Oracle Next Education and Alura training program focused on generative AI, agents, RAG, data intelligence, automation and Oracle Cloud Infrastructure. In progress.
-- **OCI AI Foundations Associate — Oracle:** expected completion on October 2, 2026.
+- **OCI AI Foundations Associate — Oracle:** completed.
 - **ONE G9 — Data Science:** technical training program from Oracle Next Education and Alura. Completed.
 - **ONE G9 BR Hackathon:** 1st place with team G9-BR-TEAM-12.
 - **OCI Foundations Associate — Oracle:** completed.
 - **Data Pipeline Immersion with Databricks 2026 — Alura:** completed.
 - **VoeBem ANAC project:** under development, with the AI layer being finalized.
-- **Data Analysis with Power BI — Fundação Bradesco + Microsoft:** expected completion on October 4, 2026.
+- **Data Analysis with Power BI — Fundação Bradesco + Microsoft:** completed.
 - **Tableau:** currently studying and progressively applying it to data analysis and visualization projects.
 - **Databases for Developers: Foundations — Oracle Dev Gym:** in progress.
 - **Psychology — Federal University of Amazonas:** 2009–2014.
@@ -269,10 +269,10 @@ I am the founder of **Encontro d’água Hub**, a digital solutions ecosystem in
 ## Currently
 
 - Completing the **AI for Tech** training program from ONE G10.
-- Preparing for the **OCI AI Foundations Associate** certification.
+- Certified as **OCI AI Foundations Associate** certification.
 - Completed Alura’s **2026 Data Pipeline Immersion with Databricks**.
 - Improving the **VoeBem ANAC** project with an AI layer.
-- Completing the **Data Analysis with Power BI** track from Fundação Bradesco and Microsoft.
+- Completed the **Data Analysis with Power BI** track from Fundação Bradesco and Microsoft.
 - Studying **Tableau** to apply it to existing projects.
 - Deepening my knowledge of SQL, pipelines, applied AI and cloud.
 - Building portfolio projects and pursuing opportunities in Data, AI and Cloud.
