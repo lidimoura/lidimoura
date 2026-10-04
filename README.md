@@ -225,13 +225,13 @@ Formulário → Base de dados → Google Colab → Python/Pandas → Análise �
 ## Formação e certificações
 
 - **ONE G10 — AI for Tech:** formação da Oracle Next Education em parceria com a Alura, com foco em IA generativa, agentes, RAG, inteligência de dados, automação e Oracle Cloud Infrastructure. Em conclusão.
-- **OCI AI Foundations Associate — Oracle:** conclusão prevista para 02/10/2026.
+- **OCI AI Foundations Associate — Oracle:** concluída.
 - **ONE G9 — Data Science:** formação técnica da Oracle Next Education em parceria com a Alura. Concluída.
 - **Hackathon ONE G9 BR:** 1º lugar com a equipe G9-BR-TEAM-12.
 - **OCI Foundations Associate — Oracle:** concluída.
 - **Imersão Pipeline de Dados com Databricks 2026 — Alura:** concluída.
 - **Projeto VoeBem ANAC:** em evolução, com a camada de IA em finalização.
-- **Análise de Dados com Power BI — Fundação Bradesco + Microsoft:** conclusão prevista para 04/10/2026.
+- **Análise de Dados com Power BI — Fundação Bradesco + Microsoft:** concluída.
 - **Tableau:** em estudo e aplicação progressiva em projetos de análise e visualização de dados.
 - **Databases for Developers: Foundations — Oracle Dev Gym:** em andamento.
 - **Psicologia — Universidade Federal do Amazonas:** 2009–2014.
@@ -269,10 +269,10 @@ Sou fundadora do **Encontro d’água Hub**, um ecossistema de soluções digita
 ## Atualmente
 
 - Finalizando a formação **AI for Tech**, do programa ONE G10.
-- Em preparação para a certificação **OCI AI Foundations Associate**.
+- Me certifiquei como **OCI AI Foundations Associate**.
 - Concluí a **Imersão Pipeline de Dados com Databricks 2026**, da Alura.
 - Evoluindo o projeto **VoeBem ANAC** com uma camada de IA.
-- Finalizando a trilha de **Análise de Dados com Power BI**, da Fundação Bradesco em parceria com a Microsoft.
+- Finalizei a trilha de **Análise de Dados com Power BI**, da Fundação Bradesco em parceria com a Microsoft.
 - Estudando **Tableau** para aplicar a ferramenta em projetos existentes.
 - Aprofundando conhecimentos em SQL, pipelines, IA aplicada e cloud.
 - Desenvolvendo projetos para portfólio e oportunidades em Dados, IA e Cloud.
