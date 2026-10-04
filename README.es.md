@@ -225,13 +225,13 @@ Formulario → Base de datos → Google Colab → Python/Pandas → Análisis �
 ## Formación y certificaciones
 
 - **ONE G10 — AI for Tech:** programa de formación de Oracle Next Education y Alura enfocado en IA generativa, agentes, RAG, inteligencia de datos, automatización y Oracle Cloud Infrastructure. En curso.
-- **OCI AI Foundations Associate — Oracle:** finalización prevista para el 02/10/2026.
+- **OCI AI Foundations Associate — Oracle:** concluida.
 - **ONE G9 — Data Science:** formación técnica de Oracle Next Education y Alura. Concluida.
 - **Hackathon ONE G9 BR:** 1.º lugar con el equipo G9-BR-TEAM-12.
 - **OCI Foundations Associate — Oracle:** concluida.
 - **Inmersión en Pipeline de Datos con Databricks 2026 — Alura:** concluida.
 - **Proyecto VoeBem ANAC:** en evolución, con la capa de IA en fase de finalización.
-- **Análisis de Datos con Power BI — Fundação Bradesco + Microsoft:** finalización prevista para el 04/10/2026.
+- **Análisis de Datos con Power BI — Fundação Bradesco + Microsoft:** concluida.
 - **Tableau:** en estudio y aplicación progresiva en proyectos de análisis y visualización de datos.
 - **Databases for Developers: Foundations — Oracle Dev Gym:** en curso.
 - **Psicología — Universidad Federal de Amazonas:** 2009–2014.
@@ -269,10 +269,10 @@ Soy fundadora de **Encontro d’água Hub**, un ecosistema de soluciones digital
 ## Actualmente
 
 - Finalizando la formación **AI for Tech** del programa ONE G10.
-- Preparándome para la certificación **OCI AI Foundations Associate**.
+- Certificada **OCI AI Foundations Associate**.
 - Concluí la **Inmersión en Pipeline de Datos con Databricks 2026** de Alura.
 - Evolucionando el proyecto **VoeBem ANAC** con una capa de IA.
-- Finalizando la formación de **Análisis de Datos con Power BI** de Fundação Bradesco y Microsoft.
+- Finalizei la formación de **Análisis de Datos con Power BI** de Fundação Bradesco y Microsoft.
 - Estudiando **Tableau** para aplicarlo en proyectos existentes.
 - Profundizando mis conocimientos en SQL, pipelines, IA aplicada y cloud.
 - Desarrollando proyectos de portafolio y buscando oportunidades en Datos, IA y Cloud.
